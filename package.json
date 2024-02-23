@@ -1,0 +1,27 @@
+{
+  "name": "@ayoshi27/cakaybox-contract",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ayoshi27/cakaybox-contract.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ayoshi27/cakaybox-contract/issues"
+  },
+  "homepage": "https://github.com/ayoshi27/cakaybox-contract#readme",
+  "dependencies": {
+    "@ts-rest/core": "^3.33.0",
+    "zod": "^3.22.4"
+  },
+  "devDependencies": {
+    "typescript": "^5.3.3"
+  }
+}
